@@ -1,6 +1,14 @@
 body {
-    margin: 30%;
+    margin: 50 100 50;
     text-align: center;
-    background-color: blue;
-    text-decoration: chartreuse;
+    background-color: gray;
+    text-decoration: solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200;
+}
+
+h1 {
+    margin: 300 100 300;
+    height: 500;
+    text-align: center;
 }
