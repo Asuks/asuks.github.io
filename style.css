@@ -1,5 +1,5 @@
 body {
-    margin: 50 100 50;
+    margin: 200 200;
     text-align: center;
     background-color: rgb(56, 56, 56);
     text-decoration: solid;
@@ -8,7 +8,8 @@ body {
 }
 
 h1 {
-    margin: 300 100 300;
+    color:deepskyblue;
+    margin: 150 200 0;
     height: 500;
     text-align: center;
 }
