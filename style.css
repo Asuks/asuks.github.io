@@ -17,3 +17,11 @@ h1 {
 a:link {
     color: white;
 }
+
+a:hover {
+    color: darkgrey;
+}
+
+a:visited {
+    color: white;
+}
