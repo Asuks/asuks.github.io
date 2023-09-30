@@ -12,3 +12,7 @@ h1 {
     height: 500;
     text-align: center;
 }
+
+a:link {
+    color: white;
+}
