@@ -1,10 +1,10 @@
 body {
     margin: 50 100 50;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(56, 56, 56);
     text-decoration: solid;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 200;
+    font-family: Courier, monospace;
+    font-size: 50;
 }
 
 h1 {
