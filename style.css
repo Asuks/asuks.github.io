@@ -45,6 +45,21 @@ article {
     font-size: 40px;
 }
 
+li > a:link {
+    color: rgb(0, 45, 91);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li > a:hover {
+    text-decoration: underline;
+}
+
+li > a:visited {
+    color: rgb(0, 24, 60);
+    font-weight: bold;
+}
+
 .copyright {
     font-size: 16px;
 }
