@@ -5,7 +5,7 @@ body {
 }
 
 a:link {
-    color: rgb(0, 128, 255);
+    color: rgb(0, 255, 255);
     text-decoration: none;
 }
 
@@ -14,7 +14,7 @@ a:hover {
 }
 
 a:visited {
-    color: rgb(0, 100, 255);
+    color: rgb(0, 191, 255);
 }
 
 header, footer {
